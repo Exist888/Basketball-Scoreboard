@@ -1,0 +1,87 @@
+@font-face {
+    src: url("sports-timer-font.ttf");
+    font-family: Sports-Timer-Font;
+}
+
+.utility-class {
+    border: 1px dotted gray;
+}
+
+body {
+    margin: 0;
+    background: #1B244A;
+    color: #EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 45px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.score {
+    background: #080001;
+    border-radius: 5px;
+    font-family: Sports-Timer-Font, Verdana, sans-serif;
+    color: #F94F6D;
+    font-size: 75px;
+    padding: 25px;
+    text-align: center;
+    height: 75px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#home-score-container {
+    margin-right: 40px;
+}
+
+#guest-score-container {
+    margin-left: 40px;
+}
+
+button {
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background: transparent;
+    font-family: Sports-Timer-Font, Verdana, sans-serif;
+    padding: 10px 7px;
+    margin: 2px;
+    height: 45px;
+    font-size: 20px;
+    transition: transform 0.2s;
+}
+
+button:hover {
+    color: #EEEEEE;
+    border: 2px solid #EEEEEE;
+}
+
+button:active {
+    transform: scale(0.9);
+    transition: transform 0.2s;
+}
+
+#reset-game-btn {
+    display: block;
+    margin: 120px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    background: #9AABD8;
+    border: none;
+    color: #080001;
+    padding: 10px 30px;
+}
+
+#reset-game-btn:hover {
+    background: #EEEEEE;
+}
