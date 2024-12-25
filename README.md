@@ -1,19 +1,18 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# __Basketball Scoreboard__
+- An interactive app that imitates a basketball scoreboad for adding free throws, field goals, and three pointers
+- Languages: JavaScript, CSS, and HTML
+- Check out my app at <a href="https://basketball-scoreboard-exist888.netlify.app/">__basketball-scoreboard-exist888.netlify.app__</a>.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+<img src="https://github.com/user-attachments/assets/776c0f6e-6d61-47ca-8881-395a3691e09c" alt="Project Hero Image" width="620">
+<br/>
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## __Skills Practiced__
+- Invoking JavaScript functions with "onclick" html button attribute
+- Implementing "textContent" and "getElementById" to manipulate the DOM and alter html content 
+- Using Increment Operator in JS functions to enable 1, 2, and 3 point incrementation
+- Using transform and transition CSS properties to give buttons a "pressed" appearance
+<br/> <br/>
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+##
+### __Thank you for checking out my work.__
+Let's connect on <a href="https://www.linkedin.com/in/filip-herbst/">__LinkedIn!__</a>
