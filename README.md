@@ -1,5 +1,5 @@
 # __Basketball Scoreboard__
-- Solo Project for Frontend Web Dev Training at <a href="https://v2.scrimba.com">__Scrimba__</a><br/>
+- Solo Project for Frontend Web Developer Training at <a href="https://v2.scrimba.com">__Scrimba__</a><br/>
 - An interactive app that imitates a basketball scoreboad for adding free throws, field goals, and three pointers
 - Languages: JavaScript, CSS, and HTML
 - Check out my app at <a href="https://basketball-scoreboard-exist888.netlify.app/">__basketball-scoreboard-exist888.netlify.app__</a>
