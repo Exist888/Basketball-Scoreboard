@@ -11,6 +11,7 @@
 - Implementing "textContent" and "getElementById" to manipulate the DOM and alter html content 
 - Using Increment Operator in JS functions to enable 1, 2, and 3 point incrementation
 - Using transform and transition CSS properties to give buttons a "pressed" appearance
+- Translating Figma design file into CSS code to imitate given visual design
 <br/> <br/>
 
 ##
