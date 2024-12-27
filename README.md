@@ -7,7 +7,7 @@
 <img src="https://github.com/user-attachments/assets/776c0f6e-6d61-47ca-8881-395a3691e09c" alt="Project Hero Image" width="620">
 <br/>
 
-## __Skills Practiced__
+## __Skills Applied__
 - Invoking JavaScript functions with "onclick" html button attribute
 - Implementing "textContent" and "getElementById" to manipulate the DOM and alter html content 
 - Using Increment Operator in JS functions to enable 1, 2, and 3 point incrementation
